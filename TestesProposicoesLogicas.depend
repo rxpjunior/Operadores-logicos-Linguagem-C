@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540943841 source:c:\workspacecodeblocks\testesproposicoeslogicas\main.c
+	<stdio.h>
+	<stdlib.h>
+
